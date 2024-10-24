@@ -3,7 +3,7 @@ import "./Animation.css";
 
 // Import the images
 import woodImage from "../../IMG/wood-1866654_1280.jpg";
-import basketballImage from "../../IMG/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png";
+import basketballImage from "../../IMG/basketball123.png";
 import footballImage from "../../IMG/41932.jpg";
 import volleyballImage from "../../IMG/png-clipart-volleyball-jpeg-volleyball-team-volleyball-thumbnail.png";
 import humanImage from "../../IMG/438051564_1218873432408257_6568321225370464418_n.jpg";
