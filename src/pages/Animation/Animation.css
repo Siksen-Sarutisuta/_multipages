@@ -1,0 +1,44 @@
+#container {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px auto;
+    width: fit-content;
+  }
+  
+  #field {
+    border: 1px solid red;
+    border-radius: 5px;
+    height: 400px;
+    width: 750px;
+    margin: 10px;
+    position: relative;
+    background-image: url(./IMG/wood-1866654_1280.jpg);
+    background-position: center;
+  }
+  
+  #control {
+    margin: 10px;
+  }
+  
+  #ball {
+    border: 1px solid green;
+    border-radius: 50%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    transition: left 0.005s linear, top 0.005s linear, transform 0.005s linear;
+  }
+  #run{
+    margin-right: 10px;
+  }
+  #basketball, #football, #volleyball, #human, #cartoon, #logo{
+    margin-right: 5px;
+    border: blue 1px solid;
+  }
+  #none {
+    margin-right: 5px;
+    border: black 1px solid;
+  }
+
+  
